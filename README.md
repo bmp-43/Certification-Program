@@ -11,7 +11,7 @@ Learn Python from zero to mastery, build real projects, and graduate with a veri
 - **Module 3 Real World Applications** — Sockets, Threading, Real World Applications 
 - **Real Projects** — View Bellow
 - **Final Exam & Certification** - After finishing the final project
-- **Final Exam & Certification** - [View The full Curriculum](Curriculum/Certification_Program_Curriculum.md)
+- **[View The full Curriculum](Curriculum/Certification_Program_Curriculum.md)**
 
 ---
 
