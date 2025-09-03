@@ -4,7 +4,7 @@
 Learn Python from zero to mastery, build real projects, and graduate with a verifiable certificate.  
 
 ---
-,
+
 ## 📖 Curriculum  
 - **Module 1 Python Foundations** — Syntax, Conditionals, Error Handling, functions, File Handling  
 - **Module 2 OOP and Advanced Python** — OOP, Internal and External Modules
