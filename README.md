@@ -6,11 +6,12 @@ Learn Python from zero to mastery, build real projects, and graduate with a veri
 ---
 ,
 ## 📖 Curriculum  
-- **Python Basics** — Syntax, Conditionals, Error Handling, functions, File Handling  
-- **Intermediate Python** — OOP, Internal and External Modules
-- **Advanced Topics** — Sockets, Threading, Real World Applications 
+- **Module 1 Python Foundations** — Syntax, Conditionals, Error Handling, functions, File Handling  
+- **Module 2 OOP and Advanced Python** — OOP, Internal and External Modules
+- **Module 3 Real World Applications** — Sockets, Threading, Real World Applications 
 - **Real Projects** — View Bellow
-- **Final Exam & Certification** - After finishing the final project 
+- **Final Exam & Certification** - After finishing the final project
+- **Final Exam & Certification** - [View The full Curriculum](Curriculum/Certification_Program_Curriculum.md)
 
 ---
 
