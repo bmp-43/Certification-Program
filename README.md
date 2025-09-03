@@ -4,13 +4,13 @@
 Learn Python from zero to mastery, build real projects, and graduate with a verifiable certificate.  
 
 ---
-
+,
 ## 📖 Curriculum  
-- **Python Basics** — syntax, control flow, functions  
-- **Intermediate Python** — OOP, modules, error handling  
-- **Advanced Topics** — networking, threading, security  
-- **Real Projects** — apps, automation, web tools  
-- **Final Exam & Certification**  
+- **Python Basics** — Syntax, Conditionals, Error Handling, functions, File Handling  
+- **Intermediate Python** — OOP, Internal and External Modules
+- **Advanced Topics** — Sockets, Threading, Real World Applications 
+- **Real Projects** — View Bellow
+- **Final Exam & Certification** - After finishing the final project 
 
 ---
 
@@ -18,7 +18,7 @@ Learn Python from zero to mastery, build real projects, and graduate with a veri
 Students who complete the program receive the official **Aegis Martin Professional Python Certificate**, verifiable at:  
 👉 [aegismartin.com/certificates](https://aegismartin.com/certificates)  
 
-![Sample Certificate](cert_preview.png)  
+![Sample Certificate](certificate/cert_preview.png)  
 
 ---
 
@@ -46,5 +46,7 @@ Visit 👉 [Aegis Martin](https://aegismartin.com) or DM me directly.
 ---
 
 ## ⚖️ License  
-All rights reserved © Aegis Martin.  
-Certificates are valid only through official verification at aegismartin.com.  
+Copyright © 2025 Aegis Martin.  
+All rights reserved.  
+Content may not be copied, modified, or redistributed without explicit permission.  
+Certificates are only valid through verification at [aegismartin.com](https://aegismartin.com/certificates)  
